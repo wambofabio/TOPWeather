@@ -1,0 +1,26 @@
+{
+  "name": "topweather",
+  "version": "1.0.0",
+  "description": "A tutorial for building a weather app with APIs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/wambofabio/TOPWeather.git"
+  },
+  "author": "Fabian",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wambofabio/TOPWeather/issues"
+  },
+  "homepage": "https://github.com/wambofabio/TOPWeather#readme",
+  "devDependencies": {
+    "webpack": "^5.89.0",
+    "webpack-cli": "^5.1.4"
+  },
+  "dependencies": {
+    "openai": "^4.12.4"
+  }
+}
